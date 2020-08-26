@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Blue Lights- Jorja
 Use the left arrow to go back!
